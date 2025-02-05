@@ -1,3 +1,6 @@
+  Profile hits : [![HitCount](https://hits.dwyl.com/PrithveshPSR/python.svg?style=flat-square)](http://hits.dwyl.com/PrithveshPSR/python)
+
+  You Viewed : [![HitCount](https://hits.dwyl.com/PrithveshPSR/python.svg?style=flat-square&show=unique)](http://hits.dwyl.com/PrithveshPSR/python)
 - # 💫 About Me:
 👋 Hi, I’m @PrithveshPSR, a passionate software architect, <br>      developer, and tech enthusiast.<br>👀 I’m interested in building scalable systems, exploring emerging technologies, <br>     and solving real-world problems through code.<br>🌱 I’m currently learning advanced cloud architectures, <br>      machine learning techniques, and exploring the potential of AI in software development.<br>💞️ I’m looking to collaborate on innovative projects, <br>      open-source contributions, and creating impactful tech solutions that can drive change.<br>📫 How to reach me: You can contact me at 9810553909 <br>      or connect with me on LinkedIn for collaboration <br>      and opportunities!
 
