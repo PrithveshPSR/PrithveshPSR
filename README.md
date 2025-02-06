@@ -1,6 +1,6 @@
 
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200917220843/How-to-Become-a-Software-Architect.jpg)](https://github.com/PrithveshPSR)
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center"><b><i><u>Hello,Prithvesh here,A passionate Full Stack Developer from India</b></u></i></h3>
 
 [![](https://visitcount.itsvg.in/api?id=PrithveshPSR&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithveshpsr&label=Profile%20views&color=0e75b6&style=flat" alt="prithveshpsr" /> </p>
